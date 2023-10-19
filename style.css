@@ -1,0 +1,248 @@
+.head-banner{
+    display: flex;
+    height:850px;
+    background-color: rgba(229,84,115,0.10);
+ 
+}
+
+.banner-text{
+    color: #272727;
+    width: 708px;
+    font-family: Lato;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-top: 197px;
+    margin-left: 80px;
+    
+}
+
+.head-paragraph{
+    width: 534px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 32px;
+    margin-left: 80px;
+   
+}
+
+.head-button{
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 32px;
+    margin-left: 80px;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.head-flower{
+    
+    padding-top: 100px;
+   
+}
+
+
+.featured-flowers{
+    text-align: center;
+    
+}
+
+.all-h3{
+    color:#272727;
+    font-size: 40px;
+    font-family: lato;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.all-paragraph{
+    width:594px;
+    margin-left: 363px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.featured-flowers img{  
+    margin-top: 40px;
+    margin-right: 5px;
+    width: 364px;
+    height: 438px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+
+.featured-flower-name{
+    display: flex;  
+}
+
+.featured-flower-name h4{
+    margin-left: 210px;
+    margin-right: 65px; 
+}
+
+.delivery-flower-phone{
+    margin-left: 110px;
+    width: 1110px;
+    height: 320px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: rgba(39,39,39,0.05);
+    margin-top: 50px;
+   
+}
+
+
+.delivery-flower-phone img{
+   
+    width: 88px;
+    height: 88px;
+    flex-shrink: 0;
+    margin-top: 100px;
+    margin-left: 170px;
+    margin-right: 70px;
+
+}
+
+.delivery-flower-phone-name{
+    display: flex;
+}
+
+.delivery-flower-phone-name h5{
+    margin-left: 125px;
+    margin-right: 30px;
+
+}
+
+#telephone-alone{
+    margin-left: 175px;
+}
+
+.hot-deal-flower{
+    margin-top: 90px;
+    text-align: center;
+}
+
+.hot-deal-flower p{
+    padding-left: 50px;
+}
+
+.instagram-flower{
+    text-align: center;
+    
+}
+
+.instagram-flower h3{
+    color:#272727;
+    font-size: 40px;
+    font-family: lato;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.instagram-flower img{  
+    margin-top: 40px;
+    margin-right: 10px;
+    width: 270px;
+    height: 350px;
+    flex-shrink: 0;
+    background: rgba(167, 33, 98, 0.15);
+}
+
+.search-details{
+    background-image: url("Flower Asset/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    background-size: 1125px 449px;
+    margin-top: 50px;
+    margin-left: 100px;
+    padding: 100px 150px;
+    text-align: center;
+}
+
+.search-details p{
+    margin-left: 165px;
+}
+
+.search-details div{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 100px;
+
+
+}
+
+.search-details input{
+    border-radius: 8px;
+    background: #FFF;
+    margin-right: 10px;
+    height: 64px;
+    width: 500px;
+   
+}
+
+.search-details button{
+    color: #FFF;
+    font-size: 20px;
+    width: 120px;
+    height: 64px;
+    border-radius: 8px;
+    background: #E55473;
+}
+
+.footer{
+    margin-top: 50px;
+    height: 449px;
+    background-color:black;
+    color: white;
+    text-align: center;
+    padding-top: 128px;
+    
+}
+
+.footer-h3{
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.footer-p{
+    width: 625px;
+    color: rgba(255, 255, 255, 0.90);
+    margin-left: 350px;
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+}
+
+.footer-h5{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
